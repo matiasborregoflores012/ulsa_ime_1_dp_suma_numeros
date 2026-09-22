@@ -89,30 +89,30 @@ _____no guarda decimales int entonces se trunca
 
 | # | ¿Qué falló o qué quise mejorar? | ¿Qué cambié? | ¿Funcionó? |
 |---|---|---|---|
-| 1 | _____ | _____ | _____ |
-| 2 | _____ | _____ | _____ |
+| 1 | ___muy simple__ | _agregarlo en un ciclo que me pregunte al final de una suma si quiero continuatr o cerrar el programa____ | si_____ |
+| 2 | __un sistema de validacion___ | _un sistema que si pongo otro caracter no se crashe el programa que lo reniciara y continuara____ | ____si_ |
 
-**Reto elegido (opcional):** _____
+**Reto elegido (opcional):** __el sistema y la validacion___
 
 ## 11. Dudas para el profesor (Fase 3)
 
 | Duda | Lo que ya intenté |
 |---|---|
-| _____ | _____ |
+| __porque es obligatorio 0;___ | ___quitarlo y se fue todo a la basura__ |
 
 ## 12. Reflexión final
 
 **¿Qué aprendí con esta práctica?**
-_____
+_____mis primeros pasos
 
 **Ahora que terminé, ¿qué cambiaría de mi proceso?**
-_____
+_____ninguno fumciona
 
 **¿Qué fue lo más difícil y cómo lo resolví?**
-_____
+_____hacerlo por mi cuenta y prueba y error
 
 **¿Qué pregunta me quedó sin responder?**
-_____
+_____como puedo integrar float
 
 ## 13. Lista de verificación antes de entregar (Fase 5)
 
