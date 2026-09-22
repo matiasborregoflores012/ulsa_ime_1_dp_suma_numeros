@@ -6,19 +6,30 @@ int main() {
     // 1. Constante: valor que no cambia durante la ejecución
     const int CANTIDAD = 5;
 
-    // 2. Variables (siempre inicializadas)
+    // commit 1) analizar el problema
     double suma   = 0.0;
     double numero = 0.0;
 
     std::cout << "Suma de " << CANTIDAD << " numeros\n";
 
-    // 3. Ciclo: repetir CANTIDAD veces
-    //    TODO: elige un ciclo (for o while) y usa un contador
-    //    TODO: pedir el numero, leerlo y acumularlo en suma
+    // commit 2) la creacion de mi for
+    for (int i =0 ;  i < CANTIDAD; i++) {
+         std::cout << "Ingrese un numero: ";
+            std::cin >> numero;
+             suma += numero;
+    // commit 3) poner el mensaje final
+                 std::cout << "La suma es total de los 5 numeros es: " << suma << std::endl;
 
+
+    }
+    
+    
+
+    //    TODO: pedir el numero, leerlo y acumularlo en suma
+         
     // 4. Salida
-    //    TODO: mostrar el total
 
     // ¿Qué significa return 0;?
     return 0;
+
 }
