@@ -18,18 +18,19 @@ int main() {
             std::cin >> numero;
              suma += numero;
     // commit 3) poner el mensaje final
-                 std::cout << "La suma es total de los 5 numeros es: " << suma << std::endl;
-
-
+  
     }
     
-    
+    std::cout << "La suma es total de los 5 numeros es: " << suma << std::endl;
+
+    return 0;
 
     //    TODO: pedir el numero, leerlo y acumularlo en suma
          
     // 4. Salida
 
     // ¿Qué significa return 0;?
-    return 0;
+  
+ 
 
 }
